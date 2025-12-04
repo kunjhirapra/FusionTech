@@ -1,0 +1,203 @@
+{
+  "project1": {
+    "id": "project1",
+    "title": "TechMart E-commerce Platform",
+    "category": "E-commerce • Web Development",
+    "filterCategory": "ecommerce",
+    "description": "A comprehensive e-commerce solution built for TechMart, featuring advanced inventory management, multiple payment gateways, real-time analytics, and a sophisticated admin dashboard.",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe API", "AWS"],
+    "features": [
+      "Multi-vendor marketplace",
+      "Real-time inventory tracking",
+      "Advanced search and filtering",
+      "Mobile-responsive design",
+      "Payment gateway integration",
+      "Order tracking system",
+      "Customer review system",
+      "Admin analytics dashboard"
+    ],
+    "client": "TechMart Inc.",
+    "duration": "4 months",
+    "team": "6 developers"
+  },
+  "project2": {
+    "id": "project2",
+    "title": "HealthTracker Mobile App",
+    "category": "Mobile App • Health & Fitness",
+    "filterCategory": "mobile",
+    "description": "A comprehensive health and fitness tracking application with real-time data synchronization, social features, and integration with wearable devices.",
+    "technologies": [
+      "React Native",
+      "Firebase",
+      "Redux",
+      "HealthKit",
+      "Google Fit"
+    ],
+    "features": [
+      "Activity and workout tracking",
+      "Nutrition logging",
+      "Social challenges and leaderboards",
+      "Wearable device integration",
+      "Personal coaching recommendations",
+      "Health data analytics",
+      "Goal setting and progress tracking",
+      "Offline mode functionality"
+    ],
+    "client": "HealthTech Solutions",
+    "duration": "5 months",
+    "team": "4 developers"
+  },
+  "project3": {
+    "id": "project3",
+    "title": "Enterprise Cloud Migration",
+    "category": "Cloud Solutions • Infrastructure",
+    "filterCategory": "cloud",
+    "description": "Complete cloud migration project for a Fortune 500 company, moving from on-premises infrastructure to AWS with improved scalability and security.",
+    "technologies": ["AWS", "Docker", "Kubernetes", "Terraform", "Jenkins"],
+    "features": [
+      "Multi-region deployment",
+      "Auto-scaling infrastructure",
+      "Disaster recovery setup",
+      "Security compliance (SOC 2)",
+      "CI/CD pipeline implementation",
+      "Cost optimization strategies",
+      "24/7 monitoring and alerting",
+      "Database migration and optimization"
+    ],
+    "client": "GlobalCorp Industries",
+    "duration": "8 months",
+    "team": "8 specialists"
+  },
+  "project4": {
+    "id": "project4",
+    "title": "Business Intelligence Dashboard",
+    "category": "Data Analytics • Web Application",
+    "filterCategory": "analytics",
+    "description": "Real-time analytics dashboard providing comprehensive insights into sales performance, customer behavior, and operational metrics with predictive analytics capabilities.",
+    "technologies": ["Vue.js", "Python", "PostgreSQL", "D3.js", "Apache Kafka"],
+    "features": [
+      "Real-time data visualization",
+      "Predictive analytics models",
+      "Custom report generation",
+      "Role-based access control",
+      "Mobile-responsive interface",
+      "API integration capabilities",
+      "Automated alerting system",
+      "Export functionality"
+    ],
+    "client": "DataDriven Corp",
+    "duration": "6 months",
+    "team": "5 developers"
+  },
+  "project5": {
+    "id": "project5",
+    "title": "EduLearn LMS Platform",
+    "category": "Education • Web Development",
+    "filterCategory": "web",
+    "description": "Comprehensive Learning Management System with video streaming, interactive assessments, progress tracking, and collaborative learning features.",
+    "technologies": ["Angular", "Node.js", "MySQL", "WebRTC", "AWS S3"],
+    "features": [
+      "HD video streaming",
+      "Interactive quizzes and assessments",
+      "Student progress tracking",
+      "Discussion forums",
+      "Assignment submission system",
+      "Grade book management",
+      "Calendar integration",
+      "Mobile app companion"
+    ],
+    "client": "EduTech University",
+    "duration": "7 months",
+    "team": "6 developers"
+  },
+  "project6": {
+    "id": "project6",
+    "title": "FoodieHub Delivery App",
+    "category": "Mobile App • Food & Delivery",
+    "filterCategory": "mobile",
+    "description": "Comprehensive food delivery application with real-time order tracking, multiple payment options, restaurant management system, and delivery optimization.",
+    "technologies": [
+      "Flutter",
+      "Firebase",
+      "Google Maps API",
+      "Stripe",
+      "Socket.io"
+    ],
+    "features": [
+      "Real-time order tracking",
+      "Restaurant discovery and filtering",
+      "Multiple payment methods",
+      "Driver management system",
+      "Order history and favorites",
+      "Push notifications",
+      "Reviews and ratings",
+      "Delivery time optimization"
+    ],
+    "client": "FoodieHub Inc.",
+    "duration": "5 months",
+    "team": "5 developers"
+  },
+  "project7": {
+    "id": "project7",
+    "title": "MedCare Hospital System",
+    "category": "Healthcare • Web Development",
+    "filterCategory": "web",
+    "description": "Comprehensive hospital management system featuring patient records, appointment scheduling, billing integration, and telemedicine capabilities.",
+    "technologies": ["React", "Python", "PostgreSQL", "Redis", "WebRTC"],
+    "features": [
+      "Electronic health records (EHR)",
+      "Appointment scheduling system",
+      "Billing and insurance integration",
+      "Telemedicine platform",
+      "Prescription management",
+      "Lab results integration",
+      "Staff scheduling",
+      "Patient portal"
+    ],
+    "client": "MedCare Regional Hospital",
+    "duration": "10 months",
+    "team": "7 developers"
+  },
+  "project8": {
+    "id": "project8",
+    "title": "FinanceHub Dashboard",
+    "category": "Finance • Data Analytics",
+    "filterCategory": "analytics",
+    "description": "Financial analytics platform with real-time stock tracking, portfolio management, and automated trading strategies.",
+    "technologies": ["React", "Node.js", "MongoDB", "TensorFlow", "WebSocket"],
+    "features": [
+      "Real-time market data",
+      "Portfolio management",
+      "Risk analysis tools",
+      "Automated trading strategies",
+      "Custom alerts",
+      "Tax reporting",
+      "Multi-currency support",
+      "Historical data analysis"
+    ],
+    "client": "FinanceHub Ltd.",
+    "duration": "6 months",
+    "team": "6 developers"
+  },
+  "project9": {
+    "id": "project9",
+    "title": "ShopEasy E-commerce",
+    "category": "Retail • E-commerce",
+    "filterCategory": "ecommerce",
+    "description": "Modern e-commerce platform with AR product visualization, personalized recommendations, and seamless checkout experience.",
+    "technologies": ["Next.js", "Stripe", "Algolia", "Cloudflare", "PostgreSQL"],
+    "features": [
+      "AR product visualization",
+      "AI-powered recommendations",
+      "One-click checkout",
+      "Inventory management",
+      "Multi-language support",
+      "Customer loyalty program",
+      "Real-time notifications",
+      "Advanced analytics"
+    ],
+    "client": "ShopEasy Retail",
+    "duration": "5 months",
+    "team": "5 developers"
+  }
+}
